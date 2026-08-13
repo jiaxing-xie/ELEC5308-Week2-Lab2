@@ -1,0 +1,23 @@
+{
+  "username": "GITHUB_USERNAME",
+  "timestamp": "2026-08-13T21:00:25.766356",
+  "lab": "lab2",
+  "comet_url": "https://www.comet.com/jiaxing-xie/elec5308-lab2/b9dd33fa13a8499ea9da6ecfd01cb203",
+  "M1_num_classes": 43,
+  "M1_train_size": 22644,
+  "M1_val_size": 3996,
+  "M1_test_size": 12630,
+  "M2_model_name": "MyCNN",
+  "M2_param_count": 394443,
+  "M3_best_val_acc": 0.9962462462462462,
+  "M3_n_epochs": 20,
+  "M3_final_train_loss": 0.032434573047938356,
+  "M4_test_accuracy": 0.9577988915281077,
+  "M4_f1_macro": 0.9363626898028486,
+  "M4_f1_micro": 0.9577988915281077,
+  "M4_f1_weighted": 0.9574037154187726,
+  "M4_precision_macro": 0.9432165747302291,
+  "M4_recall_macro": 0.9369955395127285,
+  "M5_tl_test_accuracy": 0.44204275534441806,
+  "M5_tl_f1_macro": 0.3470178436265313
+}
